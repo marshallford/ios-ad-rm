@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /usr/bin
+chmod 777 adremover
+chmod 777 adremover.sh
+cd /var/mobile/Media/Downloads
+chmod 777 hosts

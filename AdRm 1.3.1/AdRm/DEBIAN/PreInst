@@ -1,0 +1,12 @@
+#!/bin/bash
+cd /var/mobile/Media/Downloads
+if [ -f "/var/mobile/Media/Downloads/hosts" ]; then
+rm hosts
+fi
+cd /usr/bin
+if [ -f "/usr/bin/adremover" ]; then
+rm adremover
+fi
+if [ -f "/usr/bin/adremover.sh" ]; then
+rm adremover.sh 
+fi
