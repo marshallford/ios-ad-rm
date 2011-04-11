@@ -5,7 +5,7 @@ Do not be alarmed at the warning message ==> Required by Bigboss, just thought I
 
 _______________________
 
-Current Version ==> 1.3
+Current Version ==> 1.3.1
 Current Host File Version ==> 1.4
 Supports ==> 3.X - 4.X iOS Firmware
 _______________________
@@ -14,9 +14,9 @@ _______________________
 
 CHANGE LOG:
 
-** 1.3.1 ==> Not yet released **
+** 1.3.1 ==> 4/10/11 **
 1. # of lines in the control file FIX
-2. Added repo to github
+2. Added to github
 
 ** 1.3.0 ==> 1/8/11 **
 1. Restore to default option
