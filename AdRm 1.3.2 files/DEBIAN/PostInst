@@ -2,5 +2,6 @@
 cd /usr/bin
 chmod 777 adremover
 chmod 777 adremover.sh
+chmod 777 wget
 cd /var/mobile/Media/Downloads
 chmod 777 hosts

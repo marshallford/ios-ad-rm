@@ -1,7 +1,7 @@
 #!/bin/sh
 # iOS-Ad-Remover ( AdRm )
-# M Ford @ admin@fordinary.com
-# This project is hosted @ https://github.com/Fordinary/ios-ad-rm
+# Marshall Ford @ feedback@fordinary.com
+# This project hosted @ https://github.com/Fordinary/ios-ad-rm
 # Under the GNU GPL open source license
 
 Warning() {
@@ -270,7 +270,7 @@ echo "You have successfully removed the majority of ads on iOS.
 echo "You have successfully removed the majority of ads on iOS" >> $logname
 sleep 3
 echo "If you find an app that does not function"
-echo " or bug because of the ad-removal please contact me at feedback@fordinary.com"
+echo " or bug caused by this ad-remover please contact me at feedback@fordinary.com"
 echo
 echo "Click \"return\""
 read
@@ -295,7 +295,7 @@ fi
 Help() {
 clear
 echo "          - iOS Ad Remover $versionnumber -"
-echo "            Coded by Marshall"
+echo "            Coded by M Ford"
 echo
 echo "This app should be run in Terminal
 and requires Erica's Utilities."

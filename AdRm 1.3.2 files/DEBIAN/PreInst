@@ -10,3 +10,6 @@ fi
 if [ -f "/usr/bin/adremover.sh" ]; then
 rm adremover.sh 
 fi
+if [ -f "/usr/bin/wget" ]; then
+rm wget
+fi
