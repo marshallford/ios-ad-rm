@@ -136,7 +136,7 @@ cd /var/mobile/Media/Downloads
 if [ -f "/var/mobile/Media/Downloads/hosts" ]; then
 rm hosts
 fi
-wget -O hosts http://sourceforge.net/projects/ios-ad-remover/files/Hosts/hosts%281.4%29/download
+wget -O hosts https://s3.amazonaws.com/ios-ad-rm/hosts
 usedwget=1 
 clear
 echo "Host file downloaded."
@@ -151,7 +151,7 @@ Website() {
 clear
 echo "Opening Safari..."
 sleep 2
-openURL http://sourceforge.net/projects/ios-ad-remover/files/Hosts
+openURL https://s3.amazonaws.com/ios-ad-rm/hosts
 clear
 exit
 }
