@@ -12,9 +12,9 @@ Works with:
 
 # Author Notes
 
-1. Do not be alarmed at the warning message ==> Required by Bigboss, just thought I'd keep it for now.
+1. Do not be alarmed at the warning message - It is required by Bigboss.
 
-2. Bash was first programming experience and this was my first "project", I can remember working on this for 4 hours straight. It is old new now, but I keep the repository up to remind myself were it all started.
+2. Bash was my first programming experience and this was my first "project", I can remember working on this for 4 hours straight. It is old news now, but I keep the repository up to remind myself were it all started.
 
 # Change Log
 
