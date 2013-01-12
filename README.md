@@ -18,19 +18,18 @@ Works with:
 
 # Change Log
 
-### 1.3.2 ==> 6/19/11
+### 1.3.2 - 6/19/11
 
 1. Minor Changes
 2. Using S3 to host the patch file
 3. Includes Wget
 
-### 1.3.1 ==> 4/10/11
+### 1.3.1 - 4/10/11
 
 1. # of lines in the control file FIX
 2. Added to github
 
-
-### 1.3.0 ==> 1/8/11
+### 1.3.0 - 1/8/11
 
 1. Restore to default option
 2. Doesn't require a reboot
@@ -40,7 +39,7 @@ Works with:
 6. Fix deb package issue
 7. Adds a warning message
 
-### 1.2.1 ==> First Public Release
+### 1.2.1 - First Public Release
 
 1. Full menu system
 2. Minimum bugs 
