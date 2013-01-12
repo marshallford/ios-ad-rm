@@ -57,4 +57,4 @@ Works with:
 9. Then type, "chmod 777 hosts"
 10. Now type "adremover" to start removing Ads!
 
-** NOTE: Every time you load the script it requires root permissions **
+**NOTE: Every time you load the script it requires root permissions**
